@@ -4,18 +4,18 @@ A front-end React app to manage a list of tasks.
 
 ## Features
 
-- Create tasks.
-- Mark tasks as complete.
-- Rename tasks.
-- Delete tasks.
+- Create tasks
+- Mark tasks as complete
+- Rename tasks
+- Delete tasks
 
 ## Technologies
 
 - TypeScript
-- ES6
 - React JS
 - Redux JS
 - Material UI
+- ES6
 - ESLint
 
 ## Screenshot
