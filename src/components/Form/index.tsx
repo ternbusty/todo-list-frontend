@@ -48,13 +48,12 @@ const Form: FC<Props> = ({ todo, editing, setEditing }) => {
     event.preventDefault();
 
     if (!processInputValue(inputValue)) {
-      alert("Input is empty");
+      alert("Input field must be filled out.");
       return;
     }
 
     if (editing) {
       dispatch(setTodoText(todo || emptyTodo, processInputValue(inputValue)));
-
       setEditing && setEditing(false);
     } else {
       const todo = {
