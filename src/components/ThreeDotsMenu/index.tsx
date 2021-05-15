@@ -14,6 +14,7 @@ interface Props {
   todo: TodoInterface;
   setEditing: Dispatch<SetStateAction<boolean>>;
 }
+
 const defaultProps: Props = {
   todo: emptyTodo,
   setEditing: () => undefined,

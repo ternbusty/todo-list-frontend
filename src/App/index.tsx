@@ -6,7 +6,7 @@ import { Container, Typography } from "@material-ui/core";
 
 import useStyles from "./styles";
 
-import { theme } from "../utils";
+import { theme } from "../styles";
 import { Form, List } from "../components";
 import { selectTodos } from "../store/selectors";
 

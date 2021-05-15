@@ -1,6 +1,6 @@
 import { makeStyles } from "@material-ui/core/styles";
 
-import { theme, breakpoints } from "../utils";
+import { theme, breakpoints } from "../styles";
 
 const useStyles = makeStyles({
   container: {
