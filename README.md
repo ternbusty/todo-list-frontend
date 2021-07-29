@@ -24,14 +24,14 @@ A front-end React app to manage a list of tasks.
 
 ## Demo
 
-> https://todo-list.ednoram.vercel.app/
+> https://todo-list-frontend.ednoram.vercel.app/
 
 ## Usage
 
 > Clone repository.
 
 ```sh
-git clone https://github.com/ednoram/todo-list.git
+git clone https://github.com/ednoram/todo-list-frontend.git
 ```
 
 > Run the following commands.
